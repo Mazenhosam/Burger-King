@@ -1,0 +1,455 @@
+*{
+    margin: 0;
+}
+.head1{
+    background-color: #e29d01;
+    color: #593e1f;
+    height: 3.8rem;
+}
+.elements1{
+    display: inline-block;
+    padding-left: 35rem;
+    font-size: large;
+    padding-top: 15px;
+    text-decoration: none;
+    background-color: #e29d01;
+}
+.menu{
+    text-decoration: none;
+    color: #593e1f;
+}
+.menu:hover{
+    background-color: transparent;
+}
+.header1{
+    padding-left: 20px;
+    padding-top: 15px;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    height: 3.8rem;
+}
+.main{
+    background: url('./hamburger-with-glass-water-side.jpg') center/cover ;
+    width: 100vw;
+    height: calc(100vh - 3.8rem);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed;
+}
+.main2{
+    background: url('./Screenshot\ 2023-06-26\ 035314.jpg') center/cover ;
+    width: 50vw;
+    height: 75vh;
+    float: right;
+}
+.main3{
+    background: url('./pexels-marco-fischer-115740.jpg') center/cover ;
+    width: 49vw;
+    height: 75vh;
+    float: left;
+    margin-top: -28.5rem;
+}
+.text2{
+    margin-left: 9.5rem;
+    margin-top: 10rem;
+    font-size: 100px;
+    display: inline-block;
+}
+.word{
+    display: inline-block;
+    color: white;
+    padding:240px;
+    font-size: 90px;
+    padding-left: 10px;
+    padding-top: 150px;
+}
+div span{
+    color: #e29d01;
+    display: inline-block;
+}
+.text{
+    margin-bottom:1rem ;
+    padding-left: 5rem;
+    display: inline-block;
+    color: white;
+    font-size: large;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 0.9;
+}
+.btn{
+    padding-top: 5rem;
+    padding-left: 50px;
+    display: inline-block;
+    margin: 0.2rem;
+}
+#btn1 {
+    display: inline-block;
+    padding:1rem 2rem;
+    background-color:  transparent;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 50px;
+    border:2px solid  #e29d01;
+}
+#btn2 {
+    display: inline-block;
+    padding:1rem 2rem;
+    background-color:  transparent;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 50px;
+    border:2px solid  #e29d01;
+   
+}
+#btn1:hover {
+    background-color: #e29d01;
+}
+#btn2:hover {
+    background-color: #e29d01;
+}
+.about1{
+    margin: 10px 150px;
+    line-height: 30px;
+    color: rgb(29, 28, 28);
+}
+.deal{
+    text-align: center;
+    padding: 2rem;
+    background-color: #e29d01;
+    font-size: larger;
+}
+#btn3 {
+    display: inline-block;
+    padding:1rem 2rem;
+    background-color:  transparent;
+    color: rgb(29, 28, 28);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 150px;
+    border:2px solid  #e29d01;
+}
+#btn3:hover {
+    background-color: #e29d01;
+}
+.text3{
+    display: inline-block;
+    margin-left: 60rem;
+    margin-top: 10rem;
+    font-size: 70px;
+}
+.about2{
+    display: inline-block;
+    line-height: 30px;
+    color: rgb(29, 28, 28);
+    font-size: medium;
+    margin-top: 2rem;
+}
+#btn4 {
+    display: inline-block;
+    padding:1rem 2rem;
+    background-color:  transparent;
+    color: rgb(29, 28, 28);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 5px;
+    border:2px solid  #e29d01;
+}
+#btn4:hover {
+    background-color: #e29d01;
+}
+.main4{
+    background: url('./milkshake-set-table.jpg') center/cover ;
+    width: 50vw;
+    height: 75vh;
+    float: right;
+    margin-top: -27.1rem;
+}
+.text4{
+    margin-left: -36rem;
+    margin-top: 15rem;
+    font-size: 100px;
+    display: inline-block;
+}
+.about3{
+    margin: 10px 150px;
+    line-height: 30px;
+    color: rgb(29, 28, 28);
+}
+.drob{
+    margin-top: 7.99rem;
+    text-align: center;
+    padding-top: 7.9rem;
+    background-color: #e5ac26;
+    height: 400px;
+}
+.drob1{
+   margin-right: 3.9rem;
+    font-size: 50px;
+}
+ .line{
+    border-left:1.5px solid rgb(0, 0, 0);
+    height: 240px;
+    margin-left: 42rem;
+    margin-top: 2rem;
+} 
+.adress{
+    font-size: 35px;
+    display: inline-block;
+    margin-right: 50rem;
+    margin-top: -28rem;
+    margin-left: 20rem;
+}
+.adress1{
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 50rem;
+    margin-top: -17rem;
+    margin-left: 20rem;
+    line-height: 2rem;
+} 
+.adresss{
+    font-size: 35px;
+    display: inline-block;
+    margin-right: 5rem;
+    margin-top: -30rem;
+    margin-left: 20rem;
+}
+.adress2{
+    font-size: 20px;
+    display: inline-block;
+    margin-right: 5rem;
+    margin-top: -17.5rem;
+    margin-left: 20rem;
+    line-height: 2rem;
+} 
+.drob2{
+    margin-right: 3.9rem;
+     font-size: 80px;
+     text-align: center;
+     margin-top: 3rem;
+ }
+ .drobb{
+    margin-top: -0.9rem;
+    text-align: center;
+    padding-top: 7rem;
+    background-color:#ffab3d;
+    height: 400px;
+    color: #593e1f;
+}
+.words{
+   color: #000000;
+   margin-bottom: 30rem;
+   display: inline-block;
+   width: 50rem;
+   margin-top: 5rem;
+   line-height: 30px;
+   text-align: center;
+}
+.text5{
+ 
+    margin: 3rem;
+    margin-top: 5rem;
+    font-size: 70px;
+    display: inline-block;
+}
+.text5 span{
+    margin:4rem;
+    margin-left: 3rem;
+    margin-top: 2rem;
+    color: black;
+}
+.about5{
+    margin-top: -5rem;
+    line-height: 30px;
+    color: rgb(29, 28, 28);
+    margin-left: 6rem;
+}
+.main5{
+    background: url('./pexels-jonathan-borba-2983101.jpg') center/cover ;
+    width: 50vw;
+    height: 75vh;
+    float: right;
+}
+.deal1{
+    text-align: center;
+    padding: 2rem;
+    background-color: #e29d01;
+    font-size: 30px;
+    margin-top: 3.9rem;
+}
+.menu1{
+    margin:10rem;
+    margin-top:5rem;
+    font-size: 25px;
+    margin-left: 12rem;
+}
+.menu-1{
+    margin:10rem;
+    margin-top:-9rem;
+    font-size: 20px;
+    margin-left:15rem;
+}
+.menu--1{
+    margin:10rem;
+    margin-top:-9rem;
+    font-size: 12px;
+    margin-left:11rem;
+}
+.menu2{
+    margin:10rem;
+    margin-top: -53.5rem;
+    font-size: 25px;
+    margin-left: 45rem;
+}
+.menu-2{
+    margin:10rem;
+    margin-top:-9rem;
+    font-size: 20px;
+    margin-left:49rem;
+}
+.menu--2{
+    margin:10rem;
+    margin-top:-9rem;
+    font-size: 12px;
+    margin-left:44rem;
+}
+.total{
+    margin-top: 63.3rem;
+}
+.menu3{
+    margin:10rem;
+    margin-top: -53.5rem;
+    font-size: 25px;
+    margin-left: 70rem;
+}
+.menu-3{
+    margin:10rem;
+    margin-top:-9.5rem;
+    font-size: 20px;
+    margin-left:73rem;
+}
+.menu--3{
+    margin:10rem;
+    margin-top:-9rem;
+    font-size: 12px;
+    margin-left:70rem;
+}
+.total-1{
+    margin-top: 21rem;
+}
+.total-2{
+    margin-top: 63rem;
+}
+.background{
+    background: url('./geometric-background-yellow-black.jpg') center/cover ;
+    width: 99vw;
+    height: 185vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed;
+}
+.head2{
+    background-color: #ffab3d;
+    color: #593e1f;
+    height: 3.8rem;
+}
+.elements10{
+    display: inline-block;
+    padding-left: 35rem;
+    font-size: large;
+    padding-top: 15px;
+    text-decoration: none;
+    background-color: #ffab3d;
+}
+.order{
+    text-align: center;
+    background-color: whitesmoke ;
+    height: 130vh;
+}
+fieldset{
+    margin-left: 5rem;
+    height: 29rem;
+    width: 50vw;
+    display: inline-block;
+    margin-top: 5rem;
+    border-color: #593e1f ;
+}
+.text20{
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
+#btn10 {
+    display: inline-block;
+    padding:1rem 2rem;
+    background-color:  transparent;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 50px;
+    border:2px solid  #593e1f;
+}
+#btn20 {
+    display: inline-block;
+    padding:1rem 2rem;
+    background-color:  transparent;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 50px;
+    border:2px solid   #593e1f;
+}
+#btn10:hover {
+    background-color: #593e1f;
+}
+#btn20:hover {
+    background-color:#593e1f;
+}
+.photo{
+    background: url(./young-cheerful-female-student-wears-blue-denim-overalls-purple-t-shirt-feels-happy-smiles-broadly-want-hug-with-her-boyfriend-isolated-yellow-wall.jpg)center/cover;
+    width: 50;
+    height: 100vh;
+    margin-bottom: 3rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    background-attachment: fixed;
+}
+.come{
+    background-color:transparent;
+    font-size: 50px;
+    text-align: center;
+    padding: 50px;
+}
+.head20{
+    background-color: #f7bb35;
+    color: #593e1f;
+    height: 3.8rem;
+}
+.elements100{
+    display: inline-block;
+    padding-left: 35rem;
+    font-size: large;
+    padding-top: 15px;
+    text-decoration: none;
+    background-color:#f7bb35;
+}
